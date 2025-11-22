@@ -1,0 +1,1 @@
+# jamstack_static_demo
